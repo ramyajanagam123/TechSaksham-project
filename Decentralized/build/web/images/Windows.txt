@@ -1,0 +1,3 @@
+http://architects.dzone.com/articles/run-apache-hive-windows-6-easy
+http://xuzhaotech.blogspot.in/2013/01/installing-hive-on-windows.html
+http://www.rohitmenon.com/index.php/how-to-install-apache-hive/
